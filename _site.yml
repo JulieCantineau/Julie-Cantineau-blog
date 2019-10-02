@@ -14,5 +14,6 @@ navbar:
 base_url: https://JulieCantineau.github.io/Julie-Cantineau-blog/ 
 collections:
     posts:
+      disqus: julie-cantineau-blog
       share: [twitter, linkedin, facebook]
 output: distill::distill_article
