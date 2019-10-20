@@ -1,12 +1,12 @@
 ---
-title: "Article 1 : Where’s My Elephant? High-Tech Collars Track Wildlife in Real Time"
+title: "Article 1 : Green tea could hold the key to reducing antibiotic resistance"
 author:
-  - name: Nicolas Devilez
+  - name: Julie Cantineau
 date: 09-18-2019
 categories:
-  - elephant
-  - track
-preview: image/where-s-my-elephant.jpg
+  - antiobiotic resistance
+  - bacteria
+preview: 
 output:
   distill::distill_article:
     self_contained: false
@@ -17,28 +17,41 @@ knitr::opts_chunk$set(echo = FALSE)
 ```
 
 
-![ [Credit: Alex Dissanayake Getty Images](https://www.gettyimages.be/detail/foto/dusk-falling-as-elephants-grazing-kenya-stockfotos/187255538) ](image/where-s-my-elephant.jpg)
+![](/media/sf_shared/projects/Julie-Cantineau-blog/_posts/2019-09-18-article-1/image/greentea.jpg)
+
+
+## Source of the article with publication date and word count
+
+Source of the article : <https://www.sciencedaily.com/releases/2019/09/190923101922.htm>
+(23/09/2019)
+
+Word count : 405
 
 ## Vocabulary 
 
-| Words from the text | Synonym/explanation in English |
-| ------------------- | ------------------------------ |
-| E.g. To cope with   | To deal with                   |
-|                     | Not too distant future         |
+| Words from the text | Synonym/explanation in English | French translation |
+| ------------------- | ------------------------------ | -----------------|
+| Increasingly   | More and more                  | De plus en plus/ toujours plus       |
+| To asseess                    | To estimate/to rate         | Estimer |
+| Susceptibility | State or character of allowing ou admitting of some specified treatment or response | Sensibilité/réceptivité |
+| Pathway | A way | Une voie |
+| Licenced | A certificate, tag, document etc, giving official permission to do something / formal permission | Autorisé / Autorisation / brevet |
+| Lifespan | Longetivity of an individual | Durée de vie |
+| Threat | An indication or warning of trouble or danger | Une menace
 
 ## Analysis table 
 
 |                              |                                                                     |
 | ---------------------------- | ------------------------------------------------------------------- |
-| Researchers                  | (insert names and, if possible, professions)                        |
-| Published in?                | (insert date)                                                       |
-| General topic?               |  (summarize the topic in one or two sentences)                      |
-| Procedure/what was examined? | (Give some details about the topic, i.e. methodology/material/etc.) |
-| Conclusions/discovery?       |  (what did the researchers conclude? Did they find something?)      |
-| Remaining questions?         | (check if there are still interrogations at the end of the article) |
+| Researchers                  | Université of Surrey, original author : Natasha Meredith            |
+| Published in? When (if mentioned) ?               | Journal of Medical Microbiology, 2019                                                       |
+| General topic?               |  Natural antioxidant helping eliminate antiobiotic resistant bacteria                      |
+| Procedure/what was examined? | -	Epigallocatechin (EGCG) can restore activity of aztreonam (common antiobiotic)                 -	In vitro test to analyse interaction with bacteria and EGCG and aztreonam in combinaison or individually -	Minimal to no toxicity in human skin cells and Galleria mellonella larvae |
+| Conclusions/discovery?       |  -	EGCG increase uptake of aztreonam by increasing permeability in bacteria -	Combinaison of aztreonam and EGCG significantly more effective at reducing numbers of bacteria |
+| Remaining questions?         | -	Natural products in combinaison with currently antibiotic may be a way of improving effectiveness  -	Potential mechanism : EGCG’s interference with biochemical pathway linked to antiobiotic susceptibility |
 
 
-<https://www.scientificamerican.com/article/wheres-my-elephant-high-tech-collars-track-wildlife-in-real-time1/?redirect=1>
+<https://www.sciencedaily.com/releases/2019/09/190923101922.htm>
 
 
 
