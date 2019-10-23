@@ -43,7 +43,7 @@ Word count : 405
 
 |                              |                                                                     |
 | ---------------------------- | ------------------------------------------------------------------- |
-| Researchers                  | Université of Surrey, original author : Natasha Meredith            |
+| Researchers                  | University of Surrey, original author : Natasha Meredith            |
 | Published in? When (if mentioned) ?               | Journal of Medical Microbiology, 2019                                                       |
 | General topic?               |  Natural antioxidant helping eliminate antiobiotic resistant bacteria                      |
 | Procedure/what was examined? | -	Epigallocatechin (EGCG) can restore activity of aztreonam (common antiobiotic)                 -	In vitro test to analyse interaction with bacteria and EGCG and aztreonam in combinaison or individually -	Minimal to no toxicity in human skin cells and Galleria mellonella larvae |
