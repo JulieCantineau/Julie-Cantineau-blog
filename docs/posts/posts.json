@@ -16,5 +16,23 @@
     ],
     "preview": {},
     "last_modified": "2019-11-03T11:46:18+01:00"
+  },
+  {
+    "path": "posts/2019-10-02-article-2/",
+    "title": "article-2",
+    "description": {},
+    "author": [
+      {
+        "name": "Julie Cantineau",
+        "url": {}
+      }
+    ],
+    "date": "2019-03-11",
+    "categories": [
+      "antiobiotic resistance",
+      "bacteria"
+    ],
+    "preview": {},
+    "last_modified": "2019-11-03T14:24:31+01:00"
   }
 ]

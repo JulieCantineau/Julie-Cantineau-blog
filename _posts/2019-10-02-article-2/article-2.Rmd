@@ -1,11 +1,11 @@
 ---
 title: "article-2"
-description: |
-  A short description of the post.
 author:
   - name: Julie Cantineau
-    url: {}
-date: 10-02-2019
+date: 03-11-2019
+categories: 
+  - antiobiotic resistance
+  - bacteria
 output:
   distill::distill_article:
     self_contained: false
@@ -15,7 +15,50 @@ output:
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-Distill is a publication format for scientific and technical writing, native to the web.
 
-Learn more about using Distill at <https://rstudio.github.io/distill>.
+## Source of the article with publication date and word count
 
+Source of the article : First published in https://theconversation.com/this-microbe-is-spreading-antibiotic-resistance-to-other-bacteria-124506
+and then in https://www.livescience.com/microbe-spreads-antibiotic-resistance-to-bacteria.html
+
+Word count : 857
+
+## Vocabulary 
+
+| Words from the text | Synonym/explanation in English | French translation |
+| ------------------- | ------------------------------ | -----------------|
+| Spreading   | To extend | Se répandre       |
+| Mutate                    | transform/change         | Subir une mutation |
+| Alongside | Beside / next to | A côté de |
+| Harbour(ed) | To hold/to have | Entretenir/avoir |
+| Rendering | To report/to interpret | Traduction/interprétation |
+| Uncover | To reveal/ to unveil/to discover | Découvrir |
+| Chunk | A piece/a portion | Un morceau |
+| Commensal | Living in association with us | Commensal |
+| Gut | Belly/ intestines | Ventre/ intestins / entrailles |
+| Harm | To damage/ to injury  | Blesser / faire du mal |
+| Hive | A sort of colony of bacteria | Une Ruche |
+| Undergo | To endure / to experience | Subir / effectuer |
+| Flourish | To propser / to bloom | Se développer |
+| Sweep | To remove / to clear | Eliminer |
+| Peers | A "colleague" / someone else | Pair |
+| Thrive | To Flourish | Se développer |
+| Swapping | To exchange | Echanger |
+| Bestowed | To give / to confer | Décerner / conférer |
+| Expectancy | Hope | Attentes / expectative |
+| Paramount | Predominant / supreme / most important | Premier -> plus important |
+## Analysis table 
+
+
+|                              |                                                                     |
+| ---------------------------- | ------------------------------------------------------------------- |
+| Researchers                  | University of Bath, original author : Sali Morris & James S. Horton            |
+| Published in? When (if mentioned) ?               | Not mentioned                                                       |
+| General topic?               |                        |
+| Procedure/what was examined? |  |
+| Conclusions/discovery?       | |
+| Remaining questions?         |  |
+
+
+
+<https://www.livescience.com/microbe-spreads-antibiotic-resistance-to-bacteria.html>
