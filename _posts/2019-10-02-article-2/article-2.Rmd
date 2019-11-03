@@ -1,5 +1,5 @@
 ---
-title: "article-2"
+title: "The propagation of antibiotic resistant between bacteria"
 author:
   - name: Julie Cantineau
 date: 03-11-2019
@@ -15,11 +15,13 @@ output:
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
+![](/media/sf_shared/projects/Julie-Cantineau-blog/_posts/2019-10-02-article-2/enterococcus-faecalis-alfred-pasieka.jpg)
 
 ## Source of the article with publication date and word count
 
 Source of the article : First published in https://theconversation.com/this-microbe-is-spreading-antibiotic-resistance-to-other-bacteria-124506
-and then in https://www.livescience.com/microbe-spreads-antibiotic-resistance-to-bacteria.html
+and then in https://www.livescience.com/microbe-spreads-antibiotic-resistance-to-bacteria.html 
+(october 2019)
 
 Word count : 857
 
@@ -47,6 +49,7 @@ Word count : 857
 | Bestowed | To give / to confer | Décerner / conférer |
 | Expectancy | Hope | Attentes / expectative |
 | Paramount | Predominant / supreme / most important | Premier -> plus important |
+
 ## Analysis table 
 
 
@@ -54,10 +57,10 @@ Word count : 857
 | ---------------------------- | ------------------------------------------------------------------- |
 | Researchers                  | University of Bath, original author : Sali Morris & James S. Horton            |
 | Published in? When (if mentioned) ?               | Not mentioned                                                       |
-| General topic?               |                        |
-| Procedure/what was examined? |  |
-| Conclusions/discovery?       | |
-| Remaining questions?         |  |
+| General topic?               | Transmission of antiobiotic resistance between bacteria                      |
+| Procedure/what was examined? | In 2012, a patient contracted a MRSA (methicillin resistant *Staphilococcus aureus*). First, treatment worked but few months later, MRSA became resistant to treatment. Scientists discovered it was acquiring resistant as a gift of chuck of DNA from another becterium.  They discovered that *Enterococcus faecaelis* (a good bacterium of guts, well resistant to antibiotic) had a system of protection against unwanter DNA (used by scientists to edit DNA) because those bacteria can transfer a part of DNA to other bacteria to make them resistant to antibiotic. Here, it was the case with vicomycine for MRSA. |
+| Conclusions/discovery?       | *Enterococcus faecalis* can change its DNA to become resistant against antibiotic and its can transfer a part of DNA to other bacteria to confer the same resistance (as for methicillin resistant *Staphilococcus aureus*) |
+| Remaining questions?         | Scientists don't understand completly how *Enterococcus faecalis* changes his DNA and which portion of DNA is critical for this bacterium |
 
 
 
