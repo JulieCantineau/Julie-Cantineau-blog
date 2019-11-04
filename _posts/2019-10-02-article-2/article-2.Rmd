@@ -1,5 +1,5 @@
 ---
-title: "The propagation of antibiotic resistant between bacteria"
+title: "Article 2 : The propagation of antibiotic resistant between bacteria"
 author:
   - name: Julie Cantineau
 date: 03-11-2019
