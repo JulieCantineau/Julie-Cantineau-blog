@@ -1,10 +1,28 @@
 ---
-title: "My english activity log"
+title: "My English Activity Log : M.E.A.L."
+author:
+  - name: Julie Cantineau
+date: 11-12-2019
+categories: 
+  - M.E.A.L.
+output:
+  distill::distill_article:
+    self_contained: false
 ---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
 
 Here is all activies I will do or I've done in english, in a chronological order with sometimes few lines to comment them and why not give advices for some categories.
 
 **Movies and Series :** 
+
+11/10 : watching Matrix 2, it's a trilogy so..
+
+10/11 : watching Matrix on Netflix also for the first time. Despite it's a pretty old movie and therefore the 3D images have not aged very well, it's a movie that you have to watch once in life (for all references in pop culture)
+
+01/11 : watching Gladiator on Netflix for the first time, it was a really good movie and the end was emotional, giving a real definition of hero
 
 31/10 : watching an episode of Lucifer on Netflix (season 1)
 
@@ -34,12 +52,19 @@ Here is all activies I will do or I've done in english, in a chronological order
 
 **Podcasts :**
 
+09/11 : I listeed to a short documentary in english on youtube chanel "France 24" about the different french regional accents and the sentiment of pride that it produces as well as a certain form of discrimation
+
 **Games :**
+
+11/11 : I played LyricsTraining for 20 minutes
+
+10/11 : I played LyricsTraining for almost one hour
+
+09/11 : I introduced LyricsTraining to my boyfriend and we played for 20 minutes
 
 18/10 : Playing "LyricsTraining" for 30 minutes 
 
 **Other :**
 
 01/11 : Watching the opening ceremony of the Blizzcon 2019 (Its happened in California, It's a annual convention of the compagny "Blizzard Entertainment" during they present novelties for their current games and those coming out soon. The entirely ceremony is in english with no subtitles.)
-
 
