@@ -4,7 +4,7 @@ author:
   - name: Julie Cantineau
 date: 09-18-2019
 categories:
-  - antiobiotic resistance
+  - antibiotic resistance
   - bacteria
 preview: 
 output:
