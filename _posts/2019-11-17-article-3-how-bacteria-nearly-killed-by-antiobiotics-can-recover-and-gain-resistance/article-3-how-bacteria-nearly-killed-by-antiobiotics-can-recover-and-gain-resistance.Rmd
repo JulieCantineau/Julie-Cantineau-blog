@@ -1,0 +1,46 @@
+---
+title: "Article 3 : How bacteria nearly killed by antiobiotics can recover and gain resistance"
+author:
+  - name: Julie Cantineau
+date: 11-17-2019
+categories :
+  - antibiotic resistance
+  - bacteria
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## Source of the article with publication date and word count
+
+Source of the article : <https://www.sciencenews.org/article/bacteria-nearly-killed-antibiotics-recover-gain-resistance>
+(28/05/2019)
+
+Word count : 526
+
+## Vocabulary 
+
+| Words from the text | Synonym/explanation in English | French translation |
+| ------------------- | ------------------------------ | -----------------|
+| Resurge (to)   | To raise again                  | Ressurgir       |
+| Wisdom                    | Knowledge         | Connaissance |
+| Engineered |  created/developped/manipulated  | Créé, développé |
+| Disabling | Desactivate/turn off | Désactivé |
+
+## Analysis table 
+
+
+|                              |                                                                     |
+| ---------------------------- | ------------------------------------------------------------------- |
+| Researchers                  | Vanessa R. Povolo & Martin Ackermann            |
+| Published in? When (if mentioned) ?               | Science, vol 364, 24 May 2019                      |
+| General topic?               | How bacteria nearly killed by antiobiotics can recover and gain resistance             |
+| Procedure/what was examined? | Scientists discover that bacteria can exchange plasmids to each other even if there are antibiotic around them. French geneticists genetically make *E. Coli* fluorescent proteins to watch the mecanism of exchange in live. The experience shows that 70% of bacteria became resistant in 3h to tetracyline (antibiotic) - at the begining there were only a third of bacteria who were resistant. After, when the drug was around, most of bacteria were almost dead (because they aren't synthetise the resistant proteins against the drug) but the multidrug protein pump extract drug out of bacteria and make some of them revive. |
+| Conclusions/discovery?       | A protein, called AcrAB-TolC multidrug efflux pump, can remove enough antibiotic molecules out of bacteria to make production of resistant proteins and then, make the bacterium revives. |
+| Remaining questions?         | Which drugs can be used in people and safe for them ? |
+
+
