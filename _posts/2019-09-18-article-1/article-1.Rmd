@@ -4,7 +4,7 @@ author:
   - name: Julie Cantineau
 date: 09-18-2019
 categories:
-  - antiobiotic resistance
+  - antibiotic resistance
   - bacteria
 preview: 
 output:
@@ -41,6 +41,7 @@ Word count : 405
 
 ## Analysis table 
 
+
 |                              |                                                                     |
 | ---------------------------- | ------------------------------------------------------------------- |
 | Researchers                  | University of Surrey, original author : Natasha Meredith            |
@@ -49,6 +50,7 @@ Word count : 405
 | Procedure/what was examined? | -	Epigallocatechin (EGCG) can restore activity of aztreonam (common antiobiotic)                 -	In vitro test to analyse interaction with bacteria and EGCG and aztreonam in combinaison or individually -	Minimal to no toxicity in human skin cells and Galleria mellonella larvae |
 | Conclusions/discovery?       |  -	EGCG increase uptake of aztreonam by increasing permeability in bacteria -	Combinaison of aztreonam and EGCG significantly more effective at reducing numbers of bacteria |
 | Remaining questions?         | -	Natural products in combinaison with currently antibiotic may be a way of improving effectiveness  -	Potential mechanism : EGCG’s interference with biochemical pathway linked to antiobiotic susceptibility |
+
 
 
 <https://www.sciencedaily.com/releases/2019/09/190923101922.htm>
