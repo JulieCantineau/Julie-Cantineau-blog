@@ -65,8 +65,16 @@
       "antibiotic resistance",
       "bacteria"
     ],
+<<<<<<< HEAD
     "preview": "posts/2019-09-18-article-1//gtl.jpg",
     "last_modified": "2019-12-02T17:28:01+01:00"
+=======
+    "preview": {},
+<<<<<<< HEAD
+    "last_modified": "2019-10-23T13:49:30+02:00"
+=======
+    "last_modified": "2019-11-03T11:46:18+01:00"
+>>>>>>> 89496c824ca8649fa60daf48d18f9c5c9834a7cb
   },
   {
     "path": "posts/2019-11-12-my-english-activity-log-meal/",
@@ -83,6 +91,11 @@
       "M.E.A.L."
     ],
     "preview": {},
+<<<<<<< HEAD
     "last_modified": "2019-12-02T17:18:26+01:00"
+=======
+    "last_modified": "2019-11-17T18:21:05+01:00"
+>>>>>>> decbefea271ba9366e336b0e50bc387e91c5e487
+>>>>>>> 89496c824ca8649fa60daf48d18f9c5c9834a7cb
   }
 ]
