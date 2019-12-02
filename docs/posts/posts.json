@@ -1,5 +1,20 @@
 [
   {
+    "path": "posts/2019-12-02-article-4/",
+    "title": "Article 4 : A new antibiotic to combat drug-resistant bacteria is in sight ",
+    "description": {},
+    "author": [
+      {
+        "name": "Julie Cantineau",
+        "url": {}
+      }
+    ],
+    "date": "2019-12-02",
+    "categories": [],
+    "preview": {},
+    "last_modified": "2019-12-02T18:16:21+01:00"
+  },
+  {
     "path": "posts/2019-11-17-article-3-how-bacteria-nearly-killed-by-antiobiotics-can-recover-and-gain-resistance/",
     "title": "Article 3 : How bacteria nearly killed by antiobiotics can recover and gain resistance",
     "description": {},
@@ -47,11 +62,11 @@
     ],
     "date": "2019-09-18",
     "categories": [
-      "antiobiotic resistance",
+      "antibiotic resistance",
       "bacteria"
     ],
-    "preview": {},
-    "last_modified": "2019-11-03T11:46:18+01:00"
+    "preview": "posts/2019-09-18-article-1//gtl.jpg",
+    "last_modified": "2019-12-02T17:28:01+01:00"
   },
   {
     "path": "posts/2019-11-12-my-english-activity-log-meal/",
@@ -68,6 +83,6 @@
       "M.E.A.L."
     ],
     "preview": {},
-    "last_modified": "2019-11-17T18:21:05+01:00"
+    "last_modified": "2019-12-02T17:18:26+01:00"
   }
 ]

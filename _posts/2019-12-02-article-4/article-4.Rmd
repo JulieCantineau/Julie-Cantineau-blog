@@ -1,0 +1,51 @@
+---
+title: "Article 4 : A new antibiotic to combat drug-resistant bacteria is in sight "
+description: |
+author:
+  - name: Julie Cantineau
+date: 12-02-2019
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## Source of the article with publication date and word count
+
+Source of the article : <https://www.sciencedaily.com/releases/2019/11/191121134519.htm>
+(21/11/2019)
+
+Word count : 455
+
+## Vocabulary 
+
+| Words from the text | Synonym/explanation in English | French translation |
+| ------------------- | ------------------------------ | -----------------|
+| Pathogen   | Something that causes disease | Agent pathogène |
+| Customary   | Usual | Habituel | 
+| Germ |  Microbe, bacterium| Germe / microbe / bactérie | 
+| Gram negative bacteria | Bacteria with an external membrane |  Bactérie gram négatif, possède une membrane externe | 
+| Symbiont | Symbiotic organism | Symbiote | 
+| Closure | Something closes | Fermeture | 
+| Weak | Lack of something | Faible | 
+
+
+## Analysis table 
+
+|                              |                                                                     |
+| ---------------------------- | ------------------------------------------------------------------- |
+| Researchers                  | German Center for Infection Research            |
+| Published in? When (if mentioned) ?               | Nature, 2019                                                       |
+| General topic?               |  New antibiotic for fighting antiobacteria resistance by the discovery of a new peptide                      |
+| Procedure/what was examined? | Searchers has discovered a peptide called Darobactin, who's a chain of 7 aminoacid. There are linked unexpectionally. This is not toxic for cells, so it can be use to create antibiotic. Moreover a new weak point has been discovered by this peptide causing a disturbance on external membrane of Gram negative bacteria. |
+| Conclusions/discovery?       | Darobactin works very well against infection, even if it is antibiotic-resistance. It is a promising substance for new development of antibiotic. |
+| Remaining questions?         | / |
+
+
+
+<https://www.sciencedaily.com/releases/2019/11/191121134519.htm>
+
+
