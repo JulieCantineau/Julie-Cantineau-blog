@@ -11,8 +11,10 @@
     ],
     "date": "2019-12-02",
     "categories": [],
-    "preview": {},
-    "last_modified": "2019-12-02T18:16:21+01:00"
+    "preview": "posts/2019-12-02-article-4//Darobactin.png",
+    "last_modified": "2019-12-03T09:55:24+01:00",
+    "preview_width": 1200,
+    "preview_height": 514
   },
   {
     "path": "posts/2019-11-17-article-3-how-bacteria-nearly-killed-by-antiobiotics-can-recover-and-gain-resistance/",
@@ -29,8 +31,10 @@
       "antibiotic resistance",
       "bacteria"
     ],
-    "preview": {},
-    "last_modified": "2019-11-17T18:17:47+01:00"
+    "preview": "posts/2019-11-17-article-3-how-bacteria-nearly-killed-by-antiobiotics-can-recover-and-gain-resistance//plasmid.png",
+    "last_modified": "2019-12-03T09:50:49+01:00",
+    "preview_width": 512,
+    "preview_height": 288
   },
   {
     "path": "posts/2019-10-02-article-2/",
@@ -47,8 +51,10 @@
       "antibiotic resistance",
       "bacteria"
     ],
-    "preview": {},
-    "last_modified": "2019-11-17T18:21:46+01:00"
+    "preview": "posts/2019-10-02-article-2//EF.png",
+    "last_modified": "2019-12-03T09:43:30+01:00",
+    "preview_width": 500,
+    "preview_height": 375
   },
   {
     "path": "posts/2019-09-18-article-1/",
@@ -65,16 +71,8 @@
       "antibiotic resistance",
       "bacteria"
     ],
-<<<<<<< HEAD
     "preview": "posts/2019-09-18-article-1//gtl.jpg",
-    "last_modified": "2019-12-02T17:28:01+01:00"
-=======
-    "preview": {},
-<<<<<<< HEAD
-    "last_modified": "2019-10-23T13:49:30+02:00"
-=======
-    "last_modified": "2019-11-03T11:46:18+01:00"
->>>>>>> 89496c824ca8649fa60daf48d18f9c5c9834a7cb
+    "last_modified": "2019-12-03T09:37:36+01:00"
   },
   {
     "path": "posts/2019-11-12-my-english-activity-log-meal/",
@@ -91,11 +89,6 @@
       "M.E.A.L."
     ],
     "preview": {},
-<<<<<<< HEAD
-    "last_modified": "2019-12-02T17:18:26+01:00"
-=======
-    "last_modified": "2019-11-17T18:21:05+01:00"
->>>>>>> decbefea271ba9366e336b0e50bc387e91c5e487
->>>>>>> 89496c824ca8649fa60daf48d18f9c5c9834a7cb
+    "last_modified": "2019-12-03T09:37:36+01:00"
   }
 ]

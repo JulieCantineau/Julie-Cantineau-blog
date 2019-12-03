@@ -4,6 +4,7 @@ description: |
 author:
   - name: Julie Cantineau
 date: 12-02-2019
+preview: /Darobactin.png
 output:
   distill::distill_article:
     self_contained: false

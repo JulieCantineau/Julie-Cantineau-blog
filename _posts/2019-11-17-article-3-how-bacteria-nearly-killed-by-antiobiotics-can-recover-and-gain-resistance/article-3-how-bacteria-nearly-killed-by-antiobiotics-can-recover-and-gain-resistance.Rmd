@@ -6,6 +6,7 @@ date: 11-17-2019
 categories :
   - antibiotic resistance
   - bacteria
+preview: /plasmid.png
 output:
   distill::distill_article:
     self_contained: false
@@ -14,6 +15,8 @@ output:
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
+
+![*Escherichia coli*](/media/sf_shared/projects/Julie-Cantineau-blog/_posts/2019-11-17-article-3-how-bacteria-nearly-killed-by-antiobiotics-can-recover-and-gain-resistance/E-coli.jpg)
 
 ## Source of the article with publication date and word count
 
