@@ -1,0 +1,45 @@
+---
+title: "Article 5 : Antibiotic-resistant bacteria more prevalent in device-related infections"
+description: 
+author:
+  - name: Julie Cantineau
+    url: {}
+date: 12-17-2019
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## Source of the article with publication date and word count
+
+Source of the article : <https://www.sciencedaily.com/releases/2019/11/191125100408.htm>
+(25/11/2019)
+
+Word count : 417
+
+## Vocabulary 
+
+| Words from the text | Synonym/explanation in English | French translation |
+| ------------------- | ------------------------------ | -----------------|
+| Among   | in the midst of | au milieu de |
+| To ensure   | to secure | assurer, garantir | 
+
+
+## Analysis table 
+
+|                              |                                                                     |
+| ---------------------------- | ------------------------------------------------------------------- |
+| Researchers                  | Society for Healthcare Epidemiology of America            |
+| Published in? When (if mentioned) ? | Infection Control & Hospital Epidemiology, 2019                                |
+| General topic?               | Healthcare-associated infections are more inclined to be resistant to antibiotic                |
+| Procedure/what was examined? |  |
+| Conclusions/discovery?       |  |
+| Remaining questions?         | / |
+
+
+
+<https://www.sciencedaily.com/releases/2019/12/191218153450.htm?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+sciencedaily%2Fplants_animals+%28Plants+%26+Animals+News+--+ScienceDaily%29> 
