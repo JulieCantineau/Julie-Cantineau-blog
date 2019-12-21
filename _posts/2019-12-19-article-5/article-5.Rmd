@@ -35,11 +35,11 @@ Word count : 417
 | ---------------------------- | ------------------------------------------------------------------- |
 | Researchers                  | Society for Healthcare Epidemiology of America            |
 | Published in? When (if mentioned) ? | Infection Control & Hospital Epidemiology, 2019                                |
-| General topic?               | Healthcare-associated infections are more inclined to be resistant to antibiotic                |
-| Procedure/what was examined? |  |
-| Conclusions/discovery?       |  |
+| General topic?               | Healthcare-associated infections (HAI's) are more inclined to be resistant to antibiotic                |
+| Procedure/what was examined? | The presence of HAI's in adult and pediatric healthcare, which bacteria in causes and the effect of hospitalisation's time. |
+| Conclusions/discovery?       | HAI's are more resistant if people stays for a long time at hospital.HAI's in adult services are more resistant then in pediatric services. Germs present and resistant depend on care localisation and type of infection. The three morecommon HAI's in adult are Escherichia coli, Staphylococcus areus and Klebsiella. |
 | Remaining questions?         | / |
 
 
 
-<https://www.sciencedaily.com/releases/2019/12/191218153450.htm?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+sciencedaily%2Fplants_animals+%28Plants+%26+Animals+News+--+ScienceDaily%29> 
+<https://www.sciencedaily.com/releases/2019/11/191125100408.htm> 
