@@ -1,5 +1,20 @@
 [
   {
+    "path": "posts/2020-02-16-article-6/",
+    "title": "Article 6 : Analyzing the differences in antibiotic resistance between the gut and mouth microbiome",
+    "description": {},
+    "author": [
+      {
+        "name": "Julie Cantineau",
+        "url": {}
+      }
+    ],
+    "date": "2020-02-17",
+    "categories": [],
+    "preview": "posts/2020-02-16-article-6//Resistome.jpg",
+    "last_modified": "2020-02-16T22:31:45+01:00"
+  },
+  {
     "path": "posts/2019-12-19-article-5/",
     "title": "Article 5 : Antibiotic-resistant bacteria more prevalent in device-related infections",
     "description": {},
@@ -104,6 +119,6 @@
       "M.E.A.L."
     ],
     "preview": {},
-    "last_modified": "2019-12-21T11:59:08+01:00"
+    "last_modified": "2020-02-16T22:34:28+01:00"
   }
 ]
