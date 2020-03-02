@@ -1,5 +1,20 @@
 [
   {
+    "path": "posts/2020-03-02-article-7/",
+    "title": "Article 7 : Metals could be the link to new antibiotics",
+    "description": "A short description of the post.",
+    "author": [
+      {
+        "name": "Julie Cantineau",
+        "url": {}
+      }
+    ],
+    "date": "2020-03-02",
+    "categories": [],
+    "preview": "posts/2020-03-02-article-7//metal-bars.jpg",
+    "last_modified": "2020-03-02T15:10:25+01:00"
+  },
+  {
     "path": "posts/2020-02-16-article-6/",
     "title": "Article 6 : Analyzing the differences in antibiotic resistance between the gut and mouth microbiome",
     "description": {},

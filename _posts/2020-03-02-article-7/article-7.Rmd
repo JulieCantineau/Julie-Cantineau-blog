@@ -1,0 +1,51 @@
+---
+title: "Article 7 : Metals could be the link to new antibiotics"
+description: |
+  A short description of the post.
+author:
+  - name: Julie Cantineau
+    url: {}
+date: 03-02-2020
+preview : /metal-bars.jpg
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## Source of the article with publication date and word count
+
+Source of the article : <https://www.sciencedaily.com/releases/2020/02/200227091206.htm>
+(27/02/2020)
+
+Word count : 418
+
+## Vocabulary 
+
+| Words from the text | Synonym/explanation in English | French translation |
+| ------------------- | ------------------------------ | -----------------|
+|  Struggling  | Having difficulties | Avoir du mal |
+|  Pace  | Rate | Rythme |
+| Outwit | To be more clever than | Se montrer plus malin que |
+| Screening | Revew for selection, tri | Sélection |
+
+
+
+## Analysis table 
+
+|                              |                                                                     |
+| ---------------------------- | ------------------------------------------------------------------- |
+| Researchers                  | University of Queensland,  |
+| Published in? When (if mentioned) ? | *Chemical Science*, 2020 |
+| General topic?               | Discovery of potential new antibiotics based on compounds containing metals |
+| Procedure/what was examined? | They found that compounds with metals can kill bacteria without killing human cells. It'sa good new because 75% of new antibiotics can be inefficient soon due to the fact that bacteria can develop restiance against them. They analyzed 300,000 compounds coming from 47 countries. They have hope to find a new way for fight antibacteria resistance. |
+| Remaining questions?         | / |
+
+
+
+<https://www.sciencedaily.com/releases/2020/02/200227091206.htm>
+
+
